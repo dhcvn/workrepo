@@ -1,0 +1,17 @@
+myenvir
+global syssep "\"
+global gapro_data "D:\NTP\GA-191231-GxAlert project\1. Data"
+global gadataset  "C:\Users\DaoHuyCu\Google Drive\GxAlert\Datasets"
+global garaw_date "C:\Users\DaoHuyCu\Google Drive\GxAlert"
+global garesult   "C:\Users\DaoHuyCu\Google Drive\GxAlert\Results"
+global form1      "D:\NTP\GA-191231-GxAlert project\1. Data\Form1"
+global form2      "D:\NTP\GA-191231-GxAlert project\1. Data\Form2"
+global form3      "D:\NTP\GA-191231-GxAlert project\1. Data\Form3"
+global form4      "D:\NTP\GA-191231-GxAlert project\1. Data\Form4"
+
+global resultdata="$gapro_data"+"\"+"$c_date"+"-motafolder.dta"
+global nhom1 "C:\Users\DaoHuyCu\Google Drive\GxAlert\Data GxAlert\I.Nhóm có số lượng XN năm 2018 cao nhất_0101-0102"
+global nhom2 "C:\Users\DaoHuyCu\Google Drive\GxAlert\Data GxAlert\II.Nhóm có số lượng XN năm 2018 cao_0201-0210"
+global nhom3 "C:\Users\DaoHuyCu\Google Drive\GxAlert\Data GxAlert\III.Nhóm có số lượng XN năm 2018 trung bình_0301-0310"
+global nhom4 "C:\Users\DaoHuyCu\Google Drive\GxAlert\Data GxAlert\IV.Nhóm có số lượng XN năm 2018 thấp_0401-0410"
+global gadoc "D:\NTP\GA-191231-GxAlert project\2. Documentations"
